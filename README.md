@@ -36,7 +36,6 @@ Laravel packages published under [`fuelviews`](https://github.com/fuelviews) —
 | [laravel-cloudflare-cache](https://github.com/fuelviews/laravel-cloudflare-cache) | Purge Cloudflare cache from Artisan and deploy hooks | ![](https://img.shields.io/packagist/dt/fuelviews/laravel-cloudflare-cache?label=&color=2ea44f) ![](https://img.shields.io/packagist/v/fuelviews/laravel-cloudflare-cache?label=) |
 | [laravel-forms](https://github.com/fuelviews/laravel-forms) | Blade forms with spam protection and Cloudflare Turnstile | ![](https://img.shields.io/packagist/dt/fuelviews/laravel-forms?label=&color=2ea44f) ![](https://img.shields.io/packagist/v/fuelviews/laravel-forms?label=) |
 | [laravel-navigation](https://github.com/fuelviews/laravel-navigation) | Responsive Tailwind + Alpine navigation components | ![](https://img.shields.io/packagist/dt/fuelviews/laravel-navigation?label=&color=2ea44f) ![](https://img.shields.io/packagist/v/fuelviews/laravel-navigation?label=) |
-| [laravel-github-monolog](https://github.com/fuelviews/laravel-github-monolog) | Turn Laravel exceptions into GitHub issues | ![](https://img.shields.io/packagist/dt/fuelviews/laravel-github-monolog?label=&color=2ea44f) ![](https://img.shields.io/packagist/v/fuelviews/laravel-github-monolog?label=) |
 | [package-skeleton-laravel](https://github.com/fuelviews/package-skeleton-laravel) | Template every Fuelviews package starts from | ![](https://img.shields.io/github/stars/fuelviews/package-skeleton-laravel?label=&logo=github) |
 
 ## Stack

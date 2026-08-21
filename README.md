@@ -23,7 +23,7 @@
 
 Built on Laravel, Filament, and Livewire, with Stripe Connect, Google Business Profile / Calendar, SMS + voice, and an AI-powered site builder, deployed across an isolated dev/prod pipeline on Forge and Cloudflare.
 
-Day to day I work on multi-tenant SaaS architecture, provisioning automation, queue-heavy background pipelines, and the open-source Laravel packages below that power every Fuelviews site.
+Day to day I work on multi-tenant SaaS architecture, provisioning automation, queue-heavy background pipelines, WordPress and custom client sites, and the open-source Laravel packages below that power every Fuelviews site.
 
 ## Open source
 
@@ -53,14 +53,21 @@ Laravel packages published under [`fuelviews`](https://github.com/fuelviews) —
   <img src="https://img.shields.io/badge/Laravel_Forge-18B69B?style=flat-square&logo=laravel&logoColor=white" alt="Forge">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/WHM_%2F_cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="WHM / cPanel">
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" alt="PhpStorm">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex">
 </p>
+
+Also: Linux sysadmin and network admin — servers, DNS, firewalls, mail, and the stuff that keeps the above online.
 
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejmitchener&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejmitchener&hide_border=true&theme=tokyonight" alt="Streak" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thejmitchener&theme=tokyonight" alt="GitHub stats" height="165">
+  <img src="https://streak-stats.demolab.com/?user=thejmitchener&hide_border=true&theme=tokyonight" alt="Streak" height="165">
 </p>
 
 <p align="center">

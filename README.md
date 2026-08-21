@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Joshua 🚀</h1>
 
 <p align="center">
-  Founder &amp; lead engineer at <a href="https://fuelviews.com">Fuelviews</a> · building <strong>Provessa</strong>, job management software for contractors · Bangor, Maine
+  Co-founder &amp; lead engineer at <a href="https://fuelviews.com">Fuelviews</a> · co-founder of <strong><a href="https://provessa.com">Provessa</a></strong>, job management software for contractors · Bangor, Maine
 </p>
 
 <p align="center">

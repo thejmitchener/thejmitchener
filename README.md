@@ -9,7 +9,6 @@
   <a href="https://fuelviews.com"><img src="https://img.shields.io/badge/fuelviews.com-0ea5e9?style=for-the-badge&logo=rocket&logoColor=white" alt="fuelviews.com"></a>
   <a href="https://packagist.org/packages/fuelviews/"><img src="https://img.shields.io/badge/Packagist-fuelviews-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" alt="Packagist"></a>
   <a href="https://www.linkedin.com/in/joshua-mitchener"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/thejmitchener"><img src="https://img.shields.io/badge/@thejmitchener-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---

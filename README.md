@@ -45,7 +45,6 @@ Laravel packages published under [`fuelviews`](https://github.com/fuelviews) —
   <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.x">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Filament-F59E0B?style=flat-square&logo=filament&logoColor=white" alt="Filament">
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Pest-1F2937?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIwLjUgNDAuMSkgc2NhbGUoMS45NjI1KSI+CiAgICAgICAgPHBhdGggZmlsbD0iI2Y0M2Y1ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zNi44NDQgNjEuMTExIDUxLjAxNCAwSDI0MGwtMzIuNTk0IDE0MC41NTZIODEuNDE3TDYyLjk5NSAyMjBIMEwzMi41OTMgNzkuNDQ1aDEyNS45ODlsNC4yNTItMTguMzM0eiIvPgogICAgPC9nPgo8L3N2Zz4K" alt="Pest">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
@@ -57,6 +56,7 @@ Laravel packages published under [`fuelviews`](https://github.com/fuelviews) —
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire">
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>

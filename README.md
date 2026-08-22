@@ -64,6 +64,7 @@ Laravel packages published under [`fuelviews`](https://github.com/fuelviews) —
 ### Infra &amp; ops
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/WHM_%2F_cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="WHM / cPanel">
   <img src="https://img.shields.io/badge/Laravel_Forge-18B69B?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Forge">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
